@@ -21,7 +21,7 @@ import (
 	"github.com/aws/aws-sdk-go-v2/service/s3"
 )
 
-const shodanAPIKey = "mYHqxVdXPrQK9nqXYIB36gGbcVlyX4aC"
+const shodanAPIKey = "SHODAN_API_HERE"
 
 type Config struct {
 	Wordlist     string
