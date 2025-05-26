@@ -16,8 +16,8 @@ A fast and efficient AWS S3 bucket scanner that discovers and checks for misconf
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/BucketGuard
-cd BucketGuard
+git clone https://github.com/sami-tor/bucketguard
+cd ucketguard
 ```
 
 2. Run the setup script:
