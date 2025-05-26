@@ -1,0 +1,60 @@
+# Basic AWS S3 bucket patterns
+assets
+backup
+cdn
+data
+dev
+files
+images
+media
+prod
+public
+static
+storage
+test
+uploads
+
+# Common prefixes/suffixes
+%company%-assets
+%company%-backup
+%company%-cdn
+%company%-data
+%company%-files
+%company%-images
+%company%-media
+%company%-public
+%company%-static
+%company%-storage
+%company%-test
+%company%-uploads
+
+# Environments
+dev-%company%
+prod-%company%
+staging-%company%
+test-%company%
+uat-%company%
+
+# Service specific
+lambda-%company%
+%company%-lambda
+cloudfront-%company%
+%company%-cloudfront
+eks-%company%
+%company%-eks
+
+# Content types
+audio-%company%
+video-%company%
+docs-%company%
+downloads-%company%
+exports-%company%
+imports-%company%
+
+# Special use
+private-%company%
+internal-%company%
+external-%company%
+temp-%company%
+archive-%company%
+legacy-%company%
