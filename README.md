@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This tool is for security research and testing only. Always obtain proper authorization before scanning any systems you don't own.
 
 ## Contributer
-@MalikHamza7
+https://github.com/MalikHamza7
